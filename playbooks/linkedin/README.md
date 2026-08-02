@@ -171,7 +171,34 @@ Verify:
 
 # AI Prompt
 
-(Place the LinkedIn optimization prompt here.)
+## LinkedIn Profile Audit Prompt
+
+```text
+Act as a Senior LinkedIn Recruiter, ATS parser, AI Engineering Hiring Manager, and Personal Branding Consultant.
+
+Audit my LinkedIn profile against 25+ recent AI Engineer, Applied AI Engineer, Machine Learning Engineer, and Software Engineer job descriptions from leading technology companies.
+
+Evaluate:
+
+1. Headline
+2. About
+3. Experience
+4. Projects
+5. Skills
+6. Featured
+7. Certifications
+8. Education
+9. Recruiter SEO
+
+Return:
+
+- Recruiter Score (/10)
+- ATS Score (/10)
+- AI Engineer Score (/10)
+- Software Engineer Score (/10)
+
+Identify weaknesses, rewrite each section where needed, recommend improvements, and produce a prioritized action plan.
+```
 
 ---
 
@@ -188,8 +215,40 @@ Verify:
 
 ---
 
+## Common Mistakes
+
+- Using generic headlines
+- Listing responsibilities instead of achievements
+- Missing measurable impact
+- Keeping outdated projects
+- Ignoring recruiter keywords
+- Not using the Featured section
+
+---
+
+## Success Metrics
+
+A successful LinkedIn profile should achieve:
+
+- Complete profile (100%)
+- Professional profile photo
+- Custom LinkedIn URL
+- Strong headline
+- Optimized About section
+- Quantified experience
+- At least 3 featured projects
+- 30+ relevant technical skills
+- Open to Work configured (if applicable)
+
 # References
 
 - LinkedIn Best Practices
 - CareerOS Resume Playbook
 - CareerOS Portfolio Playbook
+
+## Related Playbooks
+
+- Resume Playbook
+- Portfolio Playbook
+- GitHub Playbook
+- Job Search Playbook
