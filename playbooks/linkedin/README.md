@@ -1,37 +1,195 @@
-# LinkedIn Playbook
+# LinkedIn Optimization Playbook
 
 ## Goal
 
-## Target Audience
+Build a recruiter-friendly LinkedIn profile that increases visibility, improves ATS keyword matching, and attracts interview opportunities for software engineering and AI engineering roles.
 
-## Why LinkedIn Matters
+---
 
-## Prerequisites
+# Target Audience
 
-## Step 1 - Export Your Profile
+- Computer Science Students
+- Graduate Software Engineers
+- AI Engineers
+- Machine Learning Engineers
+- Full Stack Developers
+- Career Changers
 
-## Step 2 - Profile Audit
+---
 
-## Step 3 - Headline Optimization
+# Why LinkedIn Matters
 
-## Step 4 - About Section
+LinkedIn is often the first place recruiters verify candidates after reviewing a resume.
 
-## Step 5 - Experience Optimization
+A strong profile should:
 
-## Step 6 - Projects
+- Clearly communicate your technical expertise.
+- Rank well in recruiter searches.
+- Showcase real projects and measurable achievements.
+- Build credibility through a complete professional profile.
 
-## Step 7 - Skills
+---
 
-## Step 8 - Featured Section
+# Workflow
 
-## Step 9 - Recruiter SEO
+```
+Export LinkedIn Profile
+        ↓
+Profile Audit
+        ↓
+Headline Optimization
+        ↓
+About Section
+        ↓
+Experience
+        ↓
+Projects
+        ↓
+Skills
+        ↓
+Featured Section
+        ↓
+Recruiter SEO
+        ↓
+Final Review
+```
 
-## Step 10 - Weekly Maintenance
+---
 
-## AI Prompt
+# Step 1 — Export Your Profile
 
-## Checklist
+Download your LinkedIn profile as a PDF for review.
 
-## Definition of Done
+---
 
-## References
+# Step 2 — Profile Audit
+
+Evaluate:
+
+- Headline
+- About
+- Experience
+- Projects
+- Skills
+- Featured
+- Certifications
+- Education
+
+---
+
+# Step 3 — Headline
+
+Checklist
+
+- Target role included
+- Core technologies included
+- Easy to scan
+- Keyword optimized
+
+Example:
+
+AI Engineer | Python • LLMs • FastAPI • RAG • Full-Stack Development | MSc Computer Science @ Maynooth University
+
+---
+
+# Step 4 — About
+
+Your About section should answer:
+
+- Who are you?
+- What do you build?
+- What technologies do you specialize in?
+- What roles are you seeking?
+
+---
+
+# Step 5 — Experience
+
+Use the Google XYZ Formula.
+
+Accomplished **X**, measured by **Y**, by doing **Z**.
+
+Example:
+
+Reduced page load time by 30% through frontend optimization and asset delivery improvements.
+
+---
+
+# Step 6 — Projects
+
+Prioritize projects by impact.
+
+Include:
+
+- Problem
+- Solution
+- Technologies
+- Outcome
+
+---
+
+# Step 7 — Skills
+
+Place your strongest and most relevant skills first.
+
+Example:
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- FastAPI
+- LLMs
+- React
+- Docker
+- PostgreSQL
+- Git
+
+---
+
+# Step 8 — Featured
+
+Recommended order:
+
+1. GitHub
+2. Portfolio
+3. Flagship Project
+4. Research
+5. Resume
+
+---
+
+# Step 9 — Recruiter SEO
+
+Verify:
+
+- Target role appears naturally.
+- Core technologies appear naturally.
+- Projects support your target role.
+- Keywords are truthful and relevant.
+
+---
+
+# AI Prompt
+
+(Place the LinkedIn optimization prompt here.)
+
+---
+
+# Definition of Done
+
+- Complete profile
+- Optimized headline
+- Strong About section
+- Quantified experience
+- Projects added
+- Skills reordered
+- Featured section updated
+- Recruiter keywords included
+
+---
+
+# References
+
+- LinkedIn Best Practices
+- CareerOS Resume Playbook
+- CareerOS Portfolio Playbook
